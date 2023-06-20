@@ -10,8 +10,8 @@ library(tidyr)
 library(stringr)
 library(lubridate)
 library(ggplot2)
-library(scales)
 library(gt)
+library(scales)
 
 # Load the CSV files
 
