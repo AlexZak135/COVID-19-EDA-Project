@@ -3,7 +3,7 @@
 ## Background
 In late 2019, cases of severe respiratory illness caused by a new type of coronavirus were reported in Wuhan, the capital of Hubei Province in China. The disease is now commonly referred to as COVID-19. By January 2020, the virus had spread beyond China's borders, and the number of COVID-19 cases began to rise worldwide. The COVID-19 pandemic has had a profound impact on everyone's life across the globe. This global crisis has made social distancing and wearing face masks in public the new norm.
 
-## Research Question and Data Overview
+## Research Focus and Data Overview
 The objective of this exploratory data analysis was to obtain a comprehensive understanding of various COVID metrics in the National Capital Region of the Washington metropolitan area, covering the period from March 2020 to February 2021. The data used for this analysis was sourced from the COVID Tracking Project. The primary metrics of interest included monthly cases, cumulative monthly cases, monthly deaths, and cumulative monthly deaths. Initially, the data provided these metrics, along with others, on a daily basis for the District of Columbia, Maryland, and Virginia. To ensure coherence and accuracy, multiple data cleaning procedures were implemented to merge the datasets and present the pertinent figures at a monthly level.
 
 ## Methodology
